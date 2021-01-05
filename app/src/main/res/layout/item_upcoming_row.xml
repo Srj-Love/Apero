@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="150dp"
+    android:layout_marginStart="16dp"
+    android:paddingTop="4dp"
+    android:layout_height="wrap_content"
+    android:background="@color/grey"
+    android:orientation="vertical">
+
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/ivUpcomingAvatar"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:padding="4dp"
+        android:scaleType="centerCrop"
+        android:adjustViewBounds="true"
+        tools:src="@drawable/ic_launcher_background" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/tvUpcomingTitle"
+        style="@style/TextAppearance.AppCompat.Large"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:textSize="12sp"
+        android:maxLines="1"
+        android:layout_gravity="center"
+        android:ellipsize="end"
+        android:textColor="@color/teal_700"
+        tools:text="@tools:sample/first_names" />
+
+
+</androidx.appcompat.widget.LinearLayoutCompat>
