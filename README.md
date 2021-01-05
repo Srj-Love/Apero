@@ -5,14 +5,10 @@ Apero app is an Android app Querying TMDb API to provide information on now play
 ### Screenshots
 
 <div align="center">
-    <img src="/screenshots/sc_1.png" width="400px"</img> 
+  <img src="/screenshots/sc_1.png" width="400px"</img> 
  <img src="/screenshots/sc_2.png" width="400px"</img> 
  <img src="/screenshots/sc_3.png" width="400px"</img> 
 </div>
-
-| [![Screen1](https://raw.githubusercontent.com/Srj-Love/Apero/master/screenshots/sc_1.png)]()  | [![Screen2](https://raw.githubusercontent.com/Srj-Love/Apero/master/screenshots/sc_2.png)]() | [![Screen3](https://raw.githubusercontent.com/Srj-Love/Apero/master/screenshots/sc_3.png)]() |[![Screen4](https://raw.githubusercontent.com/Srj-Love/Apero/master/screenshots/sc_4.png)]() |
-|:---:|:---:|:---:|:---:|:---:|
-| |  |  |  | |
 
 ### Libraries Used
 
